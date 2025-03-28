@@ -1,0 +1,22 @@
+{
+  "name": "projeto_plagio",
+  "version": "1.0.0",
+  "description": "Detector de plágio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergiorsantana/projeto_plagio.git"
+  },
+  "keywords": [
+    "Python"
+  ],
+  "author": "Sergio Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergiorsantana/projeto_plagio/issues"
+  },
+  "homepage": "https://github.com/Sergiorsantana/projeto_plagio#readme"
+}
